@@ -1,6 +1,7 @@
 .idea/
 /learn/selenium/learn/testerOprogramowania/screenshot/
-/learn/selenium/learn/testerOprogramowania/POM/tests/.pytest_cache/
+/phptravels/tests/.pytest_cache/
 /learn/selenium/learn/testerOprogramowania/10_pytest/.pytest_cache/
 *.pyc
 /report/
+/phptravels/tests/.pytest_cache/

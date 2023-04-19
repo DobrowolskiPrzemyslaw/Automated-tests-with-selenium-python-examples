@@ -1,4 +1,0 @@
-#komentarz
-"""
-komentarz wielolinikowy
-"""

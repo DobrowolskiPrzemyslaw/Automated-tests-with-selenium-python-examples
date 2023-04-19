@@ -1,7 +1,7 @@
 import pytest
 from selenium import webdriver
-from learn.selenium.learn.testerOprogramowania.POM.pages.search_hotel_page import SearchHotelPage
-from learn.selenium.learn.testerOprogramowania.POM.pages.return_hotel_page import ReturnHotelPage
+from phptravels.pages.search_hotel_page import SearchHotelPage
+from phptravels.pages.return_hotel_page import ReturnHotelPage
 
 
 class TestSearchHotel:
