@@ -5,3 +5,4 @@
 *.pyc
 /report/
 /pom/tests/.pytest_cache/
+/pom/tests/report/
