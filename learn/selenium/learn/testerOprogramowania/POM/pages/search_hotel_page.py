@@ -33,4 +33,5 @@ class SearchHotelPage:
         self.driver.find_element(By.ID, self.child_input_id).clear()
         self.driver.find_element(By.ID, self.child_input_id).send_keys(number_of_child)
     def click_search_button(self):
+        logging.info("Performing search button")
         self.driver.find_element(By.XPATH, self.search_button_xpath).click()
