@@ -41,6 +41,3 @@ class TestSearchHotel:
         assert hotel_prices[1] == "€46"
         assert hotel_prices[2] == "€73.60"
         assert hotel_prices[3] == "€138"
-
-# pytest --alluredir=report
-# allure serve C:\Users\User\PycharmProjects\LEARNETIC\report
