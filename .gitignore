@@ -3,3 +3,4 @@
 /learn/selenium/learn/testerOprogramowania/POM/tests/.pytest_cache/
 /learn/selenium/learn/testerOprogramowania/10_pytest/.pytest_cache/
 *.pyc
+/report/
