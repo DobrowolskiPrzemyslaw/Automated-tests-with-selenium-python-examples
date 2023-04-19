@@ -3,7 +3,6 @@ from selenium import webdriver
 from phptravels.pages.search_hotel_page import SearchHotelPage
 from phptravels.pages.return_hotel_page import ReturnHotelPage
 
-
 class TestSearchHotel:
     @pytest.fixture()
     def setup(self):
