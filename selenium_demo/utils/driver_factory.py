@@ -1,7 +1,5 @@
 from selenium import webdriver
-
 class DriverFactory:
-
     def get_driver(browser):
         if browser == "chrome":
             return webdriver.Chrome()

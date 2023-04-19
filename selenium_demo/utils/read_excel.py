@@ -1,8 +1,5 @@
 import xlrd
-
 from phptravels.utils.search_data import SearchData
-
-
 class ExcelReader:
     @staticmethod
     def get_data():

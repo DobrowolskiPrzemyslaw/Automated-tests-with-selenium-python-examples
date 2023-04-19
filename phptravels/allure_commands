@@ -1,2 +1,0 @@
-# pytest --alluredir=report
-# allure serve C:\Users\User\PycharmProjects\LEARNETIC\report

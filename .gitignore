@@ -5,5 +5,5 @@
 *.pyc
 /report/
 /phptravels/tests/.pytest_cache/
-/phptravels/tests/report/
+/phptravels/report/
 /phptravels/tests/geckodriver.log
