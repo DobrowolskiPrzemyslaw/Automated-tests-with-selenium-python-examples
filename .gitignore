@@ -1,8 +1,9 @@
 .idea/
 /learn/selenium/learn/testerOprogramowania/screenshot/
-/pom/tests/.pytest_cache/
+/phptravels/tests/.pytest_cache/
 /learn/selenium/learn/testerOprogramowania/10_pytest/.pytest_cache/
 *.pyc
 /report/
-/pom/tests/.pytest_cache/
-/pom/tests/report/
+/phptravels/tests/.pytest_cache/
+/phptravels/tests/report/
+/phptravels/tests/geckodriver.log

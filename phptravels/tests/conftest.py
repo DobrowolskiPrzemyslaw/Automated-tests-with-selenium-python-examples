@@ -1,11 +1,11 @@
 import allure
 import pytest
 from allure_commons.types import AttachmentType
-from pom.utils.driver_factory import DriverFactory
+from phptravels.utils.driver_factory import DriverFactory
 
 @pytest.fixture()
 def setup(request):
-    driver = DriverFactory.get_driver("firefox")
+    driver = DriverFactory.get_driver("chrome")
     driver.implicitly_wait(10)
     driver.maximize_window()
     request.cls.driver = driver

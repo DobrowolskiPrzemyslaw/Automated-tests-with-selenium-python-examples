@@ -1,7 +1,7 @@
 import allure
 import pytest
-from pom.pages.search_hotel_page import SearchHotelPage
-from pom.pages.return_hotel_page import ReturnHotelPage
+from phptravels.pages.search_hotel_page import SearchHotelPage
+from phptravels.pages.return_hotel_page import ReturnHotelPage
 
 @pytest.mark.usefixtures("setup")
 class TestSearchHotel:
