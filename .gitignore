@@ -6,4 +6,5 @@
 /report/
 /phptravels/tests/.pytest_cache/
 /phptravels/report/
-/phptravels/tests/geckodriver.log
+*.log
+/.run/pytest for test_search_flight.TestSearchHotel.test_names_hotels.run.xml
