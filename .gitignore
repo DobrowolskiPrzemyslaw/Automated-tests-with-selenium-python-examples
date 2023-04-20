@@ -4,6 +4,6 @@
 /learn/selenium/learn/testerOprogramowania/10_pytest/.pytest_cache/
 *.pyc
 /report/
-/phptravels/tests/.pytest_cache/
 /phptravels/tests/report/
 /phptravels/tests/geckodriver.log
+/.run/pytest for test_search_flight.TestSearchHotel.test_names_hotels.run.xml

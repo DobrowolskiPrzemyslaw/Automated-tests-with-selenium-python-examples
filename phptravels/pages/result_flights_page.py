@@ -1,8 +1,8 @@
 import logging
+
 import allure
 from allure_commons.types import AttachmentType
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.wait import WebDriverWait
 
 
 class ResultFlightPage:
