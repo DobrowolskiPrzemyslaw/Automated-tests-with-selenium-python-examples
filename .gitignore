@@ -1,6 +1,6 @@
 .idea/
-/learn/selenium/learn/testerOprogramowania/screenshot/
-/learn/selenium/learn/testerOprogramowania/POM/tests/.pytest_cache/
-/learn/selenium/learn/testerOprogramowania/10_pytest/.pytest_cache/
+/learn/selenium/testerOprogramowania/screenshot/
+/learn/selenium/testerOprogramowania/POM/tests/.pytest_cache/
+/learn/selenium/testerOprogramowania/10_pytest/.pytest_cache/
 *.pyc
 /report/
