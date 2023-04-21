@@ -1,16 +1,9 @@
 .idea/
-<<<<<<< HEAD
-/learn/selenium/testerOprogramowania/screenshot/
-/learn/selenium/testerOprogramowania/POM/tests/.pytest_cache/
-/learn/selenium/testerOprogramowania/10_pytest/.pytest_cache/
-=======
 /learn/selenium/learn/testerOprogramowania/screenshot/
 /phptravels/tests/.pytest_cache/
 /learn/selenium/learn/testerOprogramowania/10_pytest/.pytest_cache/
->>>>>>> selenium_demo
 *.pyc
 /report/
-/phptravels/tests/.pytest_cache/
-/phptravels/report/
-*.log
+/phptravels/tests/report/
+/phptravels/tests/geckodriver.log
 /.run/pytest for test_search_flight.TestSearchHotel.test_names_hotels.run.xml
