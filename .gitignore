@@ -7,3 +7,4 @@
 /phptravels/tests/report/
 /phptravels/tests/geckodriver.log
 /.run/pytest for test_search_flight.TestSearchHotel.test_names_hotels.run.xml
+/selenium_demo/tests/.pytest_cache/
