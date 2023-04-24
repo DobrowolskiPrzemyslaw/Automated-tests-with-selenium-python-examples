@@ -10,4 +10,3 @@
 /selenium_demo/tests/.pytest_cache/
 /.run/
 /.pytest_cache/
-*.json
